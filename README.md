@@ -1,3 +1,4 @@
+
 # Experimento de Doble Rendija 
 
 ## Descripción
@@ -41,3 +42,8 @@ jupyter lab
 
 
 4. Abre el archivo Simulacion_Doble_Rendija.ipynb en la interfaz de Jupyter y sigue las instrucciones dentro del cuaderno para ejecutar la simulación.
+
+###Autores
+- Manuel David Robayo Vega
+- Nicolas Esteban Toro Criollo
+- William Camilo Hernandez Deaza
